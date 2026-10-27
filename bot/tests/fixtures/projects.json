@@ -1,0 +1,80 @@
+[
+ {
+  "name": "Pump",
+  "id": "pump",
+  "ticker": "PUMP",
+  "chain": "solana",
+  "contract_address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+  "x_project": "Pumpfun",
+  "x_founders": [
+   "a1lon9"
+  ],
+  "x_team": [],
+  "x_notable": [],
+  "competitors": [],
+  "category": [
+   "Launchpad"
+  ],
+  "coingecko_id": "pump-fun",
+  "status": "active",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Meteora",
+  "id": "meteora",
+  "ticker": "MET",
+  "chain": "solana",
+  "contract_address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+  "x_project": "MeteoraAG",
+  "x_founders": [],
+  "x_team": [],
+  "x_notable": [],
+  "competitors": [],
+  "category": [
+   "Exchange"
+  ],
+  "coingecko_id": "meteora",
+  "status": "active",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Ramses",
+  "id": "ramses",
+  "ticker": "RAM",
+  "chain": "robinhood",
+  "contract_address": "0x5173D45A1191eE33cBB7D8c7e65f21B04eD54802",
+  "x_project": "RamsesExchange",
+  "x_founders": [],
+  "x_team": [
+   "D333z"
+  ],
+  "x_notable": [],
+  "competitors": [],
+  "category": [
+   "Exchange",
+   "Infrastructure"
+  ],
+  "coingecko_id": "ramses",
+  "status": "active",
+  "added": "2026-08-31"
+ },
+ {
+  "name": "Kairo",
+  "id": "kairo",
+  "ticker": "KAIRO",
+  "chain": "arc",
+  "contract_address": "0x3EAd4E80e9e5bC0e01682D7Ee74C4881b040D3EA",
+  "x_project": "kairo_market",
+  "x_founders": [],
+  "x_team": [],
+  "x_notable": [],
+  "competitors": [],
+  "category": [
+   "Prediction Markets",
+   "Perps"
+  ],
+  "coingecko_id": "kairo",
+  "status": "active",
+  "added": "2026-09-16"
+ }
+]

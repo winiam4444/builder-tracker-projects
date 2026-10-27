@@ -1,0 +1,68 @@
+{
+  "_comment": "Copied to STATE/config.json by `tracker.py config init`, then filled in by the getting-started skill.",
+  "version": 2,
+  "timezone": "UTC",
+  "tone": "standard",
+  "_tone_options": [
+    "standard",
+    "casual",
+    "detailed"
+  ],
+  "format": "plain",
+  "_format_options": [
+    "plain",
+    "emoji"
+  ],
+  "daily": {
+    "enabled": true,
+    "time": "09:00",
+    "window_hours": 24,
+    "show_quiet_projects": true
+  },
+  "weekly": {
+    "enabled": true,
+    "day": "sunday",
+    "time": "09:00"
+  },
+  "prices": {
+    "min_liquidity_usd": 10000,
+    "show_price_line": true
+  },
+  "community": {
+    "enabled": true,
+    "max_calls_per_project": 2,
+    "results_per_call": 25,
+    "lang": "en",
+    "min_followers": 50,
+    "exclude_handles": []
+  },
+  "x_budget": {
+    "daily_cap": 1000,
+    "reserve": 300,
+    "per_minute": 25
+  },
+  "projects": [
+    {
+      "id": "pump",
+      "sources": {
+        "project": true,
+        "founders": true,
+        "team": true,
+        "notable": true,
+        "competitors": false,
+        "cashtags": true
+      }
+    },
+    {
+      "id": "ramses",
+      "sources": {
+        "project": true,
+        "founders": true,
+        "team": true,
+        "notable": true,
+        "competitors": false,
+        "cashtags": true
+      }
+    }
+  ]
+}
