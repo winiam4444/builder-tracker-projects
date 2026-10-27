@@ -8,6 +8,8 @@ https://raw.githubusercontent.com/winiam4444/builder-tracker-projects/main/proje
 
 The curator updates this list. To follow a project of your own, add it inside your bot.
 
+Bot code, rules, and tests: [bot/README.md](bot/README.md).
+
 ## Counts
 
 | Chain | Projects |
