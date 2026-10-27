@@ -34,6 +34,6 @@ The curator updates this list. To follow a project of your own, add it inside yo
 | `x_notable` | X handles of notable accounts |
 | `competitors` | Ids of competing projects |
 | `category` | List of categories |
-| `coingecko_id` | Optional CoinGecko id |
+| `coingecko_id` | Optional CoinGecko id. Filled where CoinGecko lists the token. |
 | `status` | `active` or `paused` |
 | `added` | Date the project was added (`YYYY-MM-DD`) |
